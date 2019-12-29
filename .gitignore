@@ -14,3 +14,4 @@ web-report/
 .DS_Store
 .expo-shared/*
 .idea
+package-lock.json
